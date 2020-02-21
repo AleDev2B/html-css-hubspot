@@ -4,180 +4,193 @@
   box-sizing: border-box;
 }
 
-.box-header-nav{
-
+.box-alto{
+  padding-left: 160px;
+  padding-right: 160px;
+  height:85px;
+  background-color:#F5F8FA;
+  border-bottom: 1px solid #cbd6e2;
 }
-.box-nav-partedx{
 
+.nav-box-sx{
+  height:60px;
+  float:left;
+  margin-top: 30px;
+  width: 30%;
 }
-.box-nav-partesx{
 
+li{
+  display:inline-block;
 }
-.box-nav-menu{
 
+.mappamondo{
+  width:25px;
+  margin-bottom: -10px;
 }
-.box-nav-fisso-sx{
 
+.english{
+  margin-right: 35px;
 }
-.box-nav-fisso-dx{
 
+.contact{
+  margin-left: 35px
 }
-.home{}
 
-.home-text{}
-
-.box-home-text-sx{
+.nav-box-dx{
+  float:right;
+  margin-top: 30px;
+  width: 40%;
 }
-.box-pulsante-home-text{}
 
-.immagine-sfondo-home{}
-
-.box-perche-comprare{}
-
-.imgcubo-testo{}
-
-.img-cubo{}
-
-.home-growth-stack{}
-
-.box-imglibro-testo{}
-
-.box-imglibro-sx{}
-
-.pulsante-getfree{}
-
-.box-imglibro-dx{}
-
-.testo-img-libro-dx{}
-
-.lista-img-librodx{}
-
-.box-marketing-hub{}
-
-.box-img-palle{}
-
-.testo-sezione-marketing-hub{}
-
-.testo-basso-mrk-hub{}
-
-.popular-features{}
-
-.pulsante-getstarted{}
-
-.box-sales-hub{}
-
-.box-img-borsa{}
-
-.testo-sezione-sales-hub{}
-
-.testo-basso-sales-hub{}
-
-.box-service-hub{}
-
-.box-img-tavolaapp{}
-
-.testo-sezione-service-hub{}
-
-.testo-basso-service-hub{}
-
-.box-home-community-board{}
-
-.home-community-board{}
-
-.box-delirio-community{}
-
-.box-img-handshake-testo{}
-
-.img-handshake{}
-
-.testo-handshake{}
-
-.box-img-hubspotblogs-testo{}
-
-.img-hubspotblogs{}
-
-.testo-hubspotblogs{}
-
-.box-img-hubspotacademy-testo{}
-
-.img-hubspotacademy{}
-
-.testo-hubspotacademy{}
-
-.box-img-inbound-testo{}
-
-.img-inbound{}
-
-.testo-inbound{}
-
-.box-img-hubspotconnect-testo{}
-
-.img-connect{}
-
-.testo-connect{}
-
-.box-img-world-testo{}
-
-.img-world{}
-
-.testo-world{}
-
-.box-img-messanger-testo{}
-
-.img-messanger{}
-
-.testo-messanger{}
-
-.box-img-growthhub-testo{}
-
-.img-growthhub{}
-
-.testo-growthhub{}
-
-.home-customer{}
-
-.home-customer-img-testo{}
-
-.box-sx-home-customer{}
-
-.blocco-dx-loghi-customers{}
-
-.logo1{}
-
-.logo2{}
-
-.logo3{}
-
-.logo4{}
-
-.logo5{}
-
-.logo6{}
-
-.logo7{}
-
-.logo8{}
-
-.case-study{}
-
-.box-case-study{}
-
-.box-testo-sx{}
-
-.box-pulsante-testosx{}
-
-.box-dx-img-case-study{}
-
-.img-sorriso{}
-
-.box-footer{}
-
-.increase-your-traffic{}
-
-.connect-with-leads{}
-
-.close-manage-leads{}
-
-.support-and-tools{}
-
-.pulsante-footer{}
+.search{
+  width:25px;
+  margin-bottom: -10px;
+}
+
+.login{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.Get-HubSpot-free{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.box-basso{
+  height:84px;
+  border:solid;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.img-nav-box-basso{
+  height:75px;
+  width:120px;
+  height:40px;
+  margin-top: 20px;
+}
+
+.nav-box-dx-testo{
+  height: 40px;
+  margin-top: -40px;
+  padding-top: 8px;
+  float:right;
+  width:60%;
+}
+
+.margin-box-testo-dx{
+  margin-right: 45px;
+}
+
+.homepage-imgbig-testo{
+  border: solid;
+  height:800px;
+  background-image:url("/Users/swichy/Desktop/Corso Boolean/html-css-hubspot/img/jumbotron.png");
+}
+
+.testo-box-altosx{
+  width: 200px;
+  height:130px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  border: solid;
+  margin-top: 70px;
+  margin-left: 157px;
+}
+
+.testo-altosx{
+  font-weight: 700;
+}
+
+.sfondo-homepage-testo{
+  margin-left: 157px;
+  width:350px;
+  height:80px;
+}
+.testo{
+  margin-bottom: 30px;
+}
+.get-hubSpot-freebig{
+  padding:25px 0;
+  padding-left: 45px;
+  width:210px;
+  height:75px;
+  border:solid;
+  margin-bottom: 30px;
+}
+p#getfree{
+  width: 240px;
+  height:75px;
+  padding-top: 18px;
+  border:solid;
+}
+.testo{
+  border:solid;
+  display:cover;
+}
+
+.Get-HubSpot-free-big{}
+
+.box-imgcubo-testo{
+  background-color:#F5F8FA;
+  border: solid;
+  height:440px;
+}
+
+.img-cubo-testo{
+  border: solid;
+  margin: 0 350px;
+  height: 400px;
+}
+#imgcubo{
+  margin-top: 100px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 13px;
+  width:220px;
+}
+
+.titolo-cubo{
+  border:solid;
+  text-align:center;
+  margin-bottom: 30px;
+}
+.tipologie-sw-img-testi{
+  margin-top: 65px;
+  margin-left: 170px;
+  border: solid;
+  width:1100px;
+  height:1000px;
+  background-color: lightblue;
+}
+
+.community-img-testo{
+  border: solid;
+  height:915px;
+  background-color:#00ADB4;
+}
+
+.clienti-img-testo{
+  border: solid;
+  height:400px;
+  background-color:#FFFFFF;
+}
+
+.case-study-imgragazza-testo{
+  height:600px;
+  background-color:#FFFFFF;
+  border:solid;
+}
+
+.footer-box-alto{
+  background-color:#33475B;
+  height:500px;
+  border:solid;
+}
+
+.footer-box-basso{
+  background-color:#33475B;
+  height:200px;
+  border:solid;
+}
