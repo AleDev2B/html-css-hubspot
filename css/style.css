@@ -56,15 +56,11 @@ li{
 .login{
   border: 1px solid #ff7a59;
   margin-left: 25px;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  padding-right: 33px;
-  padding-left: 33px;
+  padding: 14px 33px;
   border-radius: .1875rem;
   min-width: 5.888rem;
   background-color: #FFFFFF;
   color: #ff7a59;
-  border-radius: .1875rem;
   text-align: center;
   font-weight: lighter;
   font-size: 13px;
@@ -73,10 +69,7 @@ li{
 .get-hubspot-free{
   background-color: #ff7a59;
   color: #fff;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  padding-left: 17px;
-  padding-right: 17px;
+  padding: 14px 17px;
   margin-left: 25px;
   margin-right: 25px;
   text-align: center;
@@ -105,12 +98,15 @@ li{
   padding-top: 8px;
   float: right;
   width: 55%;
+  margin-right: 80px;
 }
 
 li.margin-box-testo-dx{
   margin-right: 45px;
   font-size: 17px;
   font-weight:normal;
+  letter-spacing: 0.08rem;
+  font-weight:400;
 }
 
 .homepage-imgbig-testo{
@@ -130,6 +126,7 @@ h1.testo-altosx{
   font-weight: bolder;
   font-size: 45px;
   padding-top: 35px;
+  line-height: 1.25em;
 }
 
 .sfondo-homepage-testo{
@@ -139,8 +136,10 @@ h1.testo-altosx{
   font-weight: lighter;
 }
 .testo-homepage{
-  margin-bottom: 30px;
+  width: 390px;
+  margin-bottom: 20px;
   line-height: 1.61em;
+  letter-spacing: 0.02rem;
 }
 .get-hubspot-freebig{
   background-color: #ff7a59;
@@ -156,15 +155,14 @@ h1.testo-altosx{
 p#getfree{
   width: 240px;
   height:75px;
-  padding-top: 18px;
+  margin-top: 20px;
   font-weight: lighter;
   font-size: 13px;
+  line-height: 1.45em;
 }
 .testo{
   display:cover;
 }
-
-.Get-HubSpot-free-big{}
 
 .box-imgcubo-testo{
   background-color:#F5F8FA;
@@ -176,16 +174,14 @@ p#getfree{
   height: 400px;
 }
 #imgcubo{
-  margin-top: 100px;
-  margin-left: 250px;
-  margin-right: 250px;
-  margin-bottom: 13px;
-  width:220px;
+  margin: 100px 250px 13px 250px;
+  width:260px;
 }
 
 .titolo-cubo{
   text-align:center;
   margin-bottom: 30px;
+  font-size: 30px;
 }
 
 #text-cubo{
@@ -207,12 +203,11 @@ p#getfree{
 
 .free-hub-spot{
   height: 305px;
-  width: 1080px;
+  width: 76%;
   background-color: white;
   margin-left: 178px;
-  padding-top: 36px;
-  padding-bottom: 36px;
   margin-bottom: 0px;
+  padding: 36px 50px 0 50px;
 }
 
 .get-crm{
@@ -259,10 +254,10 @@ p#getfree{
 }
 
 #text-mrktalto{
-  margin-top: 15px;
-  margin-right: 33px;
   font-weight: lighter;
   font-size: 13px;
+  line-height: 1.45em;
+  letter-spacing: 0.04rem;
 }
 
 img.photo1{
@@ -301,6 +296,7 @@ img.photo3{
   margin-left: 33px;
   font-weight: lighter;
   font-size: 14px;
+  line-height: 1.45em;
 }
 #popo{
     margin-top: 25px;
@@ -391,7 +387,7 @@ h2.testo-big-community{
   color: white;
   font-weight: 700;
   font-size: 1.777rem;
-l ine-height: 1.3125em;
+  line-height: 1.3125em;
 }
 
 
@@ -403,7 +399,7 @@ p#testo-small-community{
   text-align: center;
   color: white;
   letter-spacing: 0.12rem;
-  line-height: 1.61em;
+  line-height: 1.25em;
 }
 
 .box-imgpiccolo-testo{
@@ -429,40 +425,48 @@ small{
 .photo-community{
     margin-top: 33px;
     margin-left: 114px;
+    margin-bottom: 10px;
 }
 
 .photo-blog{
     margin-top: 33px;
     margin-left: 104px;
+    margin-bottom: 10px;
 }
 
 .photo-academy{
   margin-top: 33px;
   margin-left: 77px;
+  margin-bottom: 10px;
 }
 
 .photo-inbound{
   margin-top: 33px;
   margin-left: 83px;
+  margin-bottom: 10px;
 }
 
 .photo-community-connect{
   margin-top: 33px;
   margin-left: 104px;
+  margin-bottom: 10px;
 }
 
 .photo-globe{
   margin-top: 33px;
   margin-left: 122px;
+  margin-bottom: 10px;
 }
 
 .photo-community-followers{
   margin-top: 33px;
   margin-left: 120px;
+  margin-bottom: 10px;
 }
 .photo-hub{
   margin-top: 33px;
   margin-left: 87px;
+  margin-bottom: 10px;
 }
 
 .clienti-img-testo{
@@ -474,6 +478,7 @@ small{
 
 .box-clienti-testo{
   height: 178px;
+  margin-left: 50px;
 }
 
 .box-testo-sx{
@@ -524,7 +529,7 @@ p#text-box-clienti{
   width: 45%;
   height: 435px;
   margin-top: 137px;
-  margin-left: 177px;
+  margin-left: 225px;
   display: inline-block;
   float: left;
 }
@@ -555,10 +560,7 @@ p#testo-basso-casestudy{
 .get-hubspot-free2{
   background-color: #ff7a59;
   color: #fff;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  padding-left: 17px;
-  padding-right: 17px;
+  padding: 14px 17px;
   margin-right: 25px;
   margin-bottom: 30px;
   text-align: center;
@@ -583,7 +585,7 @@ p#testo-basso-casestudy{
   width: 1080px;
   padding-top: 100px;
   color: #B7BEC5;
-  margin-left: 177px;
+  margin-left: 225px;
 }
 
 li.footer-alto{
