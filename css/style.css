@@ -60,9 +60,7 @@ li{
   padding-bottom: 14px;
   padding-right: 33px;
   padding-left: 33px;
-  text-align: center;
   border-radius: .1875rem;
-  font-weight: 500;
   min-width: 5.888rem;
   background-color: #FFFFFF;
   color: #ff7a59;
@@ -192,6 +190,9 @@ p#getfree{
 
 #text-cubo{
   font-weight: lighter;
+  line-height: 1.61em;
+  text-align: center;
+  letter-spacing: 0.04rem;
 }
 
 .sezione-box-img-photo{
