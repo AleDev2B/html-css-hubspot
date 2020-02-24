@@ -313,7 +313,6 @@ img.photo3{
 
 ul#lista{
   padding-right: 70px;
-  padding-left: 33px;
   font-weight: lighter;
   font-size: 13px;
 }
@@ -347,6 +346,7 @@ ul#lista3{
 
 li.lista-features{
   margin-top: 25px;
+  margin-right: 15px;
 }
 
 #icona{
