@@ -410,6 +410,26 @@ p#testo-small-community{
   border-bottom: 1px solid #fff;
 }
 
+.box-imgpiccolo-testo-nbd{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+  border-bottom: 1px solid #fff;
+}
+
+.box-imgpiccolo-testo-nbb{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+  border-right: 1px solid #fff;
+}
+
+.box-imgpiccolo-testo-nbbr{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+}
+
 .testo{
   color: white;
   line-height: 1.61em;
@@ -419,7 +439,7 @@ p#testo-small-community{
 
 small{
   font-weight: lighter;
-  font-size: 13px;
+  font-size: 18px;
 }
 
 .photo-community{
