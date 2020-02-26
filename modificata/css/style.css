@@ -2,12 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border: solid 1px;
 }
 
 body{
   color: #33475B;
   font-family: sans-serif;
 }
+
+/* barra alta fissa */
 .box-alto{
   padding-left: 177px;
   height:85px;
@@ -83,6 +86,10 @@ li{
   font-size: 13px;
 }
 
+/* fine barra alta */
+
+
+/* inizio barra del menu  */
 .box-basso{
   margin-left: 178px;
   margin-top: 118px;
