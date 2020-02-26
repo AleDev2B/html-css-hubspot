@@ -1,0 +1,655 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  color: #33475B;
+  font-family: sans-serif;
+}
+.box-alto{
+  padding-left: 177px;
+  height:85px;
+  background-color:#F5F8FA;
+  border-bottom: 1px solid #cbd6e2;
+  position: fixed;
+  width:100%;
+  top: 0px;
+  left: 0px;
+}
+
+.nav-box-sx{
+  float:left;
+  padding-top: 10px;
+  margin-top: 30px;
+  width: 30%;
+}
+
+li{
+  display:inline-block;
+}
+
+.mappamondo{
+  width:25px;
+  margin-bottom: -10px;
+}
+
+.english{
+  padding-left: 8px;
+  padding-right: 35px;
+  border-right: 2px solid #cbd6e2;
+}
+
+.contact{
+  margin-left: 35px
+}
+
+.nav-box-dx{
+  float:right;
+  margin-top: 30px;
+  width: 40%;
+}
+
+.search{
+  width:20px;
+  margin-bottom: -10px;
+}
+
+.login{
+  border: 1px solid #ff7a59;
+  margin-left: 25px;
+  padding: 14px 33px;
+  border-radius: .1875rem;
+  min-width: 5.888rem;
+  background-color: #FFFFFF;
+  color: #ff7a59;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+.get-hubspot-free{
+  background-color: #ff7a59;
+  color: #fff;
+  padding: 14px 17px;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-align: center;
+  border-radius: .1875rem;
+  font-weight: 500;
+  min-width: 5.888rem;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+.box-basso{
+  margin-left: 178px;
+  margin-top: 118px;
+}
+
+.img-nav-box-basso{
+  height:75px;
+  width:120px;
+  height:40px;
+  margin-top: 20px;
+}
+
+.nav-box-dx-testo{
+  height: 40px;
+  margin-top: -40px;
+  padding-top: 8px;
+  float: right;
+  width: 55%;
+  margin-right: 80px;
+}
+
+li.margin-box-testo-dx{
+  margin-right: 45px;
+  font-size: 17px;
+  font-weight:normal;
+  letter-spacing: 0.08rem;
+  font-weight:400;
+}
+
+.homepage-imgbig-testo{
+  height:700px;
+  background-image:url("/Users/swichy/Desktop/Corso Boolean/html-css-hubspot/img/jumbotron.png");
+}
+
+.testo-box-altosx{
+  width: 400px;
+  padding-top: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 178px;
+}
+
+h1.testo-altosx{
+  font-weight: bolder;
+  font-size: 45px;
+  padding-top: 35px;
+  line-height: 1.25em;
+}
+
+.sfondo-homepage-testo{
+  margin-left: 178px;
+  width:350px;
+  height:80px;
+  font-weight: lighter;
+}
+.testo-homepage{
+  width: 390px;
+  margin-bottom: 20px;
+  line-height: 1.61em;
+  letter-spacing: 0.02rem;
+}
+.get-hubspot-freebig{
+  background-color: #ff7a59;
+  color: #fff;
+  text-align: center;
+  border-radius: .1875rem;
+  font-weight: 500;
+  min-width: 5.888rem;
+  padding: 25px 0;
+  width: 205px;
+  height: 68px;
+}
+p#getfree{
+  width: 240px;
+  height:75px;
+  margin-top: 20px;
+  font-weight: lighter;
+  font-size: 13px;
+  line-height: 1.45em;
+}
+.testo{
+  display:cover;
+}
+
+.box-imgcubo-testo{
+  background-color:#F5F8FA;
+  height:440px;
+}
+
+.img-cubo-testo{
+  margin: 0 350px;
+  height: 400px;
+}
+#imgcubo{
+  margin: 50px 250px 13px 250px;
+  width:260px;
+}
+
+.titolo-cubo{
+  text-align:center;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+#text-cubo{
+  font-weight: lighter;
+  line-height: 1.61em;
+  text-align: center;
+  letter-spacing: 0.04rem;
+}
+
+.sezione-box-img-photo{
+  height: 1056px;
+  background-color: #F5F8FA;
+}
+
+.box-sx-freehub{
+  width: 40%;
+  float: left;
+}
+
+.free-hub-spot{
+  height: 305px;
+  width: 76%;
+  background-color: white;
+  margin-left: 178px;
+  margin-bottom: 0px;
+  padding: 36px 50px 0 50px;
+}
+
+.get-crm{
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 85px;
+  padding-top: 16px;
+  width:157px;
+  background-color: #ff7a59;
+  color: #fff;
+  padding-bottom: 11px;
+  padding-left: 17px;
+  padding-right: 17px;
+  margin-right: 25px;
+  border-radius: .1875rem;
+  font-weight: 500;
+  min-width: 5.888rem;
+}
+
+#img-crm{
+  margin-left: 60px;
+  width: 200px;
+  margin-bottom: 30px;
+}
+
+.box-dx-freehub{
+  width: 60%;
+  height: 234px;
+  float: right;
+}
+#popular{
+    margin-top: 25px;
+    padding-top: 26px;
+    padding-right: 50px;
+    font-size: 13px;
+    border-top: 1px solid #e0e6ed;
+}
+
+#text-mrkhub-alto{
+  padding-top: 15px;
+  margin-right: 33px;
+  height: 50px;
+  text-align: left;
+}
+
+#text-mrktalto{
+  font-weight: lighter;
+  font-size: 13px;
+  line-height: 1.45em;
+  letter-spacing: 0.04rem;
+}
+
+img.photo1{
+  width: 153px;
+  margin-top: 40px;
+  margin-left: 82px;
+}
+img.photo2{
+  width: 180px;
+  margin-top: 49px;
+  margin-left: 82px;
+}
+img.photo3{
+  width: 137px;
+  margin-top: 42px;
+  margin-left: 82px;
+}
+.marketing-hub{
+  margin-top: 37px;
+  margin-right: 37px;
+  height: 640px;
+  margin-left: 180px;
+  width:337px;
+  float: left;
+  background-color: white;
+}
+#text-mrkhub{
+  padding-top: 15px;
+  height: 50px;
+  text-align: center;
+}
+
+#text-mrktbasso{
+  width: 265px;
+  margin-top: 15px;
+  margin-left: 33px;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 1.45em;
+}
+#popo{
+    margin-top: 25px;
+    margin-left: 37px;
+    padding-top: 26px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 13px;
+    border-top: 1px solid #e0e6ed;
+}
+
+ul#lista{
+  padding-right: 80px;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+ul#lista3{
+  padding-right: 80px;
+  padding-left: 50px;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+.get-started{
+  vertical-align: middle;
+  text-align: center;
+  margin-top: 23px;
+  margin-left: 85px;
+  padding-top: 16px;
+  width:157px;
+  background-color: #ff7a59;
+  color: #fff;
+  padding-bottom: 11px;
+  padding-left: 17px;
+  padding-right: 17px;
+  margin-right: 25px;
+  border-radius: .1875rem;
+  font-weight: 500;
+  min-width: 5.888rem;
+
+}
+
+
+li.lista-features{
+  margin-top: 25px;
+  margin-right: 15px;
+}
+
+#icona{
+  margin-right: 10px;
+  width: 18px;
+}
+.sales-hub{
+  margin-top: 37px;
+  margin-right: 37px;
+  height: 640px;
+  width:337px;
+  float: left;
+  background-color: white;
+}
+.service-hub{
+  margin-top: 37px;
+  margin-right: 37px;
+  height: 640px;
+  width:337px;
+  float: left;
+  background-color: white;
+}
+.community-img-testo{
+  background-color: #00AEB3;
+  width: 1438px;
+  height: 785px;
+  padding-top: 60px;
+}
+
+.box-community-testo{
+  width: 1152px;
+  height: 657px;
+  margin-left: 137px;
+}
+
+h2.testo-big-community{
+  margin-top: 65px;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: 1.777rem;
+  line-height: 1.3125em;
+}
+
+
+p#testo-small-community{
+  margin-top: 35px;
+  margin-left: 185px;
+  margin-right: 185px;
+  margin-bottom: 70px;
+  text-align: center;
+  color: white;
+  letter-spacing: 0.12rem;
+  line-height: 1.25em;
+}
+
+.box-imgpiccolo-testo{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.box-imgpiccolo-testo-nbd{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+  border-bottom: 1px solid #fff;
+}
+
+.box-imgpiccolo-testo-nbb{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+  border-right: 1px solid #fff;
+}
+
+.box-imgpiccolo-testo-nbbr{
+  width: 281px;
+  height: 188px;
+  display: inline-block;
+}
+
+.testo{
+  color: white;
+  line-height: 1.61em;
+  font-size: 30px;
+  text-align: center;
+}
+
+small{
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.photo-community{
+    margin-top: 33px;
+    margin-left: 114px;
+    margin-bottom: 10px;
+}
+
+.photo-blog{
+    margin-top: 33px;
+    margin-left: 104px;
+    margin-bottom: 10px;
+}
+
+.photo-academy{
+  margin-top: 33px;
+  margin-left: 77px;
+  margin-bottom: 10px;
+}
+
+.photo-inbound{
+  margin-top: 33px;
+  margin-left: 83px;
+  margin-bottom: 10px;
+}
+
+.photo-community-connect{
+  margin-top: 33px;
+  margin-left: 104px;
+  margin-bottom: 10px;
+}
+
+.photo-globe{
+  margin-top: 33px;
+  margin-left: 122px;
+  margin-bottom: 10px;
+}
+
+.photo-community-followers{
+  margin-top: 33px;
+  margin-left: 120px;
+  margin-bottom: 10px;
+}
+.photo-hub{
+  margin-top: 33px;
+  margin-left: 87px;
+  margin-bottom: 10px;
+}
+
+.clienti-img-testo{
+  margin-top: 114px;
+  margin-left: 177px;
+  height:278px;
+  background-color:#FFFFFF;
+}
+
+.box-clienti-testo{
+  height: 178px;
+  margin-left: 50px;
+}
+
+.box-testo-sx{
+  vertical-align: middle;
+  width: 357px;
+  height: 168px;
+  float: left;
+}
+h2#numbers{
+  font-weight: bolder;
+  font-size: 45px;
+  padding-top: 35px;
+  line-height: 1.3125em;
+}
+p#text-box-clienti{
+  line-height: 1.61em;
+  margin-bottom: 30px;
+  font-weight: lighter;
+  font-size: 20px;
+  letter-spacing: 0.02rem;
+  width: 356px;
+}
+.boxdx-img-clients{
+  width: 620px;
+  height: 177px;
+  float: left;
+}
+
+.boxdx-img{
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  border: 0;
+  width: 150px;
+  display: inline-block;
+}
+
+.photo-clients{
+  width: 100%;
+  display: inline-block;
+}
+
+.case-study-imgragazza-testo{
+  height:600px;
+  background-color:#FFFFFF;
+}
+.box-casestudy-img-testo{
+  width: 45%;
+  height: 435px;
+  margin-top: 137px;
+  margin-left: 225px;
+  display: inline-block;
+  float: left;
+}
+
+h2#grand-titolo-casestudy{
+  font-size: 35px;
+  line-height: 1.3125em;
+  margin-bottom: 20px;
+}
+p#testo-basso-casestudy{
+  line-height: 1.61em;
+  margin-bottom: 30px;
+  letter-spacing: 0.08rem;
+  font-weight: lighter;
+}
+
+.boxsx-testo{
+  width: 480px;
+}
+.img-ragazza{
+  margin-top: 114px;
+  float: left;
+}
+#ragazzasorr{
+  width: 350px;
+}
+
+.get-hubspot-free2{
+  background-color: #ff7a59;
+  color: #fff;
+  padding: 14px 17px;
+  margin-right: 25px;
+  margin-bottom: 30px;
+  text-align: center;
+  border-radius: .1875rem;
+  font-weight: 500;
+  width: 164px;
+  height: 51px;
+  font-weight: lighter;
+  font-size: 13px;
+}
+#testo-invito{
+  font-weight: lighter;
+}
+.footer-box-alto{
+  height: 600px;
+  display: block;
+  background-color: #33475B;
+
+}
+.sezioneliste{
+  height: 487px;
+  width: 1080px;
+  padding-top: 100px;
+  color: #B7BEC5;
+  margin-left: 225px;
+}
+
+li.footer-alto{
+  display: block;
+  margin-bottom: 30px;
+}
+
+.lista-footer{
+  display: inline-block;
+  margin-right: 50px;
+}
+h4.titoli-footer-alto{
+  color: white;
+  font-weight: bold;
+  margin-bottom: 20px;
+  letter-spacing: 0.04rem;
+}
+
+.get-hubspot-support{
+  background-color: #FFFFFF;
+  color: #33475B;
+  margin-left: 25px;
+  margin-right: 137px;
+  text-align: center;
+  padding-top: 18px;
+  border-radius: .1875rem;
+  font-weight: 500;
+  width: 184px;
+  height: 46px;
+  font-weight: lighter;
+  font-size: 13px;
+  float: right;
+}
+
+i.fab fa-facebook-f{
+  height: 18px;
+}
+
+i{
+  position: relative;
+  margin-top: 70px;
+  padding-right: 20px;
+  left: 750px;
+}
